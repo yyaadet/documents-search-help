@@ -52,7 +52,7 @@ The product **documents-search** is not open source. You should buy it. After bu
 - Email: yyaadet@qq.com
 - Weixin MP:
 
-    ![Weixin MP](./images/weixin_mp.jpg)
+    ![Weixin MP](./screens/weixin_mp.jpg)
 
 # Our other projects
 
