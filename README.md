@@ -2,6 +2,8 @@
 
 Help of documents search engine and some news. We are developing a new native documents search engine. Our goal is rebuild a new native documents search engine with AI (Large Language Model and transformer-based NLP) technology.
 
+[Chinese](./zh.md)
+
 # Features
 
 - Privacy. 
