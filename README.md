@@ -40,6 +40,15 @@ Open site [http://127.0.0.1:9555](http://127.0.0.1:9555), type your query in the
 
 ![search detail](./screens/search_detail.png)
 
+# Compares
+
+## VS vscode search
+
+Which is your like?
+
+![vs_vscode](./screens/vs_vscode.png)
+
+
 # How to Get it?
 
 The product **documents-search** is not open source. You should buy it. After buy, you can get services as follow:
